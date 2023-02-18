@@ -1,2 +1,3 @@
 # chromedriver-tests
-meu primeiro teste usando chromedriver
+my first chromedriver test
+this project would automatically upload shirts to roblox but has been discontinued
